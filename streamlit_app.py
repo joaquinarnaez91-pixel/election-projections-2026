@@ -1,6 +1,6 @@
-import streamlit as st
-
-st.title("🎈 My new app")
-st.write(
-    "Let's start building! For help and inspiration, head over to [docs.streamlit.io](https://docs.streamlit.io/)."
-)
+streamlit==1.31.0
+requests==2.31.0
+pandas==2.1.4
+plotly==5.18.0
+numpy==1.26.3
+scipy==1.11.4
